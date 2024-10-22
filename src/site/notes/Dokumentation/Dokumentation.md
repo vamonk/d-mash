@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/dokumentation/dokumentation/"}
+{"dg-publish":true,"dg-path":"Dokumentation.md","permalink":"/dokumentation/"}
 ---
 
 # Dokumentation
 
+pub
