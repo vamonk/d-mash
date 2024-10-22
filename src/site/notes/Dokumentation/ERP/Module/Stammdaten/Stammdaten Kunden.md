@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"ERP/Stammdaten/Kunden","dg-permalink":"ERP/Stammdaten/Kunden","permalink":"/ERP/Stammdaten/Kunden/"}
+{"dg-publish":true,"dg-permalink":"ERP/Stammdaten/Kunden","permalink":"/ERP/Stammdaten/Kunden/"}
 ---
 
 # Stammdaten Kunden
 
+NUR NOCH PERMALINK
+
 Die Stammdaten enthalten alle erdenklichen Angaben zu jedem Kunden. Neben reinen Informationen sind hier auch wesentliche Merkmale wie Kundengruppen, Zahlungs- und Lieferbedingungen, Währungen etc. enthalten, welche einen Geschäftsprozess erst möglich machen. So gesehen gibt es Pflichtfelder, welche aber nicht als solche gekennzeichnet sind. 
 Da es selbsterklärende Felder wie Namen und Adresse gibt, wird hier nun nicht jedes beschrieben, sondern es wird auf Besonderheiten und nennenswerte Hinweise fokussiert.  
 
-![Stammdaten_Kunden.png|1024](/img/user/Assets/Stammdaten_Kunden.png)
+![Stammdaten_Kunden.png|2000](/img/user/Assets/Stammdaten_Kunden.png)
 - ( 1 ) Neben dem Hinzufügen per Drag&Drop ist es über die TWAIN-Scanner-Schnittstelle möglich, dem Kunden Dokumente anzuhängen. 
 - ( 2 ) Für Verkaufsbelege lassen sich automatische in die jeweiligen Belegtyen einzutragende Kopf- und Fußtexte definieren. 
 - ( 3 ) Hier werden die Änderungen des Kundendatensatzes protokolliert 
@@ -23,7 +25,7 @@ Da es selbsterklärende Felder wie Namen und Adresse gibt, wird hier nun nicht j
 - ( 11 )  In den Parametern definierte Multiselektion (`AP_CHECK#`)
 
 > [!Hinweis]
-> Teilweise sind Felder nicht editierbar, dann ist hier ein externe Anbindung konfiguriert. Diese kann mit dem folgenden Parameter in der [[Dokumentation/ERP/📚 Module/Administration#Parameterverwaltung\|Administration#Parameterverwaltung]] geändert werden, 
+> Teilweise sind Felder nicht editierbar, dann ist hier ein externe Anbindung konfiguriert. Diese kann mit dem folgenden Parameter in der [[Dokumentation/ERP/Module/Administration#Parameterverwaltung\|Administration#Parameterverwaltung]] geändert werden, 
 > 
 > `SAGE_KDIMP = false`
 ## Adressen 
@@ -43,7 +45,7 @@ Dies bietet eine komplette Übersicht aller den Kunden betreffenden Vorgänge, g
 ## Artikel 
 ![Pasted image 20231116163335.png](/img/user/Assets/Pasted%20image%2020231116163335.png)
 Auf der Seite Artikel finden sich die kundenbezogenen Artikel mit Preis, Artikel- und Zeichnungsnummer. Ebenfalls können Preiseinheit, Mengenstaffel eingesehen werden. 
-Erfasst werden diese Konditionen in [[Dokumentation/ERP/📚 Module/Stammdaten/Artikel\|Artikel]].
+Erfasst werden diese Konditionen in [[Dokumentation/ERP/Module/Stammdaten/Artikel\|Artikel]].
 ### Zuschl. ber
 
 ### Gesamtbestand
