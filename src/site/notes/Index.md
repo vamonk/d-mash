@@ -6,5 +6,7 @@
 # Index
 
 
-# Dokumentation der D-MASH Software 
+## Dokumentation der D-MASH Software 
+
+[[Dokumentation/ERP/📚 Module/Stammdaten/Stammdaten Kunden\|Stammdaten Kunden]]
 
