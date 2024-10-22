@@ -4,8 +4,6 @@
 
 # Stammdaten Kunden
 
-TEST 
-
 Die Stammdaten enthalten alle erdenklichen Angaben zu jedem Kunden. Neben reinen Informationen sind hier auch wesentliche Merkmale wie Kundengruppen, Zahlungs- und Lieferbedingungen, Währungen etc. enthalten, welche einen Geschäftsprozess erst möglich machen. So gesehen gibt es Pflichtfelder, welche aber nicht als solche gekennzeichnet sind. 
 Da es selbsterklärende Felder wie Namen und Adresse gibt, wird hier nun nicht jedes beschrieben, sondern es wird auf Besonderheiten und nennenswerte Hinweise fokussiert.  
 
