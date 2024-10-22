@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Kunden","permalink":"/Kunden/"}
+{"dg-publish":true,"dg-permalink":"/Dokumentation/ERP/Stammdaten/Kunden","permalink":"/Dokumentation/ERP/Stammdaten/Kunden/"}
 ---
 
 # Stammdaten Kunden
